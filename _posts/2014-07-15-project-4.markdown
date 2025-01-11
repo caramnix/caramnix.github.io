@@ -10,5 +10,5 @@ floor debates in 1979 as well as the introduction of social media platforms such
 in 2006, this provided legislators with new ways to communicate with their constituents
 and new data sources for analysis. This project explores variation in sentiment and emotion across the 115th, 116th,
 and 117th Congresses which includes a period of Republican unified control (115th), split
-government (116th), and Democrat unified control (117th).  
+government (116th), and Democrat unified control (117th).
 ---
