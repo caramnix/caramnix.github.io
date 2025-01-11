@@ -12,7 +12,7 @@ voter turnout in the 2021 mayoral election increased over 53 percent from 2017. 
 ever, despite a massive change in turnout indicating the mobilizing effect of police
 killings, Mayor Jacob Frey still won reelection in 2021. This puzzle of accountability
 is what I wish to explore further and put to the test at a national-level. Using data
-from police killings which occurred in “large” (> 50,000 people) cities from 2014-2022
+from police killings which occurred in “large” (more than 50,000 people) cities from 2014-2022
 and corresponding mayoral election returns I consider the impact of police brutality on
 turnout, democratic vote share and incumbency vote choice. I expect to find turnout
 and democratic vote share in the mayoral election will increase following instances
