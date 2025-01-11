@@ -6,9 +6,5 @@ img: shoot.png
 alt: image-alt
 project-date: Spring 2023
 category: Causal Inference
-description: Instances of police brutality have been shown to have a catalyzing effect on the
-electorate. For example, following the murder of George Floyd in Minneapolis in 2020
-voter turnout in the 2021 mayoral election increased over 53 percent from 2017. How-
-ever, despite a massive change in turnout indicating the mobilizing effect of police
-killings, Mayor Jacob Frey still won reelection in 2021. Th
+description: 
 ---
