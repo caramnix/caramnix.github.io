@@ -5,7 +5,7 @@ img: sentiment.png
 alt: image-alt
 project-date: Spring 2024
 category: LLM
-description: Legislators communicate with constituents for a multitude of reasons: campaigning,
+description: Legislators communicate with constituents for a multitude of reasons. Campaigning,
 fundraising, and informing them of bills they are working on, or issues they are passionate
 about. Prior to the late 1970s it was difficult for legislators to communicate with their
 constituents, let alone the mass public. With the introduction of C-SPAN televising House
