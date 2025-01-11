@@ -19,7 +19,7 @@ and democratic vote share in the mayoral election will increase following instan
 of police brutality. I also expect, relative to cities where there were no instances of
 police brutality, incumbency percentage will decrease, suggesting mayors are being
 “punished” for police brutality happening on their watch. However, I expect this effect
-is not large enough to unseat the incumbent, demonstrating contradictory outcomes:
+is not large enough to unseat the incumbent, demonstrating contradictory outcomes;
 increased mobilization, yet incumbent reelection- indicating a lack of mayoral account-
 ability. I leverage the as-if random timing and location of instances of police brutality
 to implement a differences in differences design spanning multiple time periods. I also
