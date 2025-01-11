@@ -1,11 +1,9 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2020-09-01
+img: alaska.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Fall 2020
+description: In eight states, a “nesting rule” requires that each state Senate district be exactly composed of two adjacent state House districts. In this article, we investigate the potential impacts of these nesting rules with a focus on Alaska, where Republicans have a 2/3 majority in the Senate while a Democratic-led coalition controls the House. Treating the current House plan as fixed and considering all possible pairings, we find that the choice of pairings alone can create a swing of 4–5 seats out of 20 against recent voting patterns, which is similar to the range observed when using a Markov chain procedure to generate plans without the nesting constraint. The analysis enables other insights into Alaska districting, including the partisan latitude available to districters with and without strong rules about nesting and contiguity. Supplementary materials for this article are available online. <a href= "https://www.tandfonline.com/doi/full/10.1080/2330443X.2020.1774452#abstract"> Click here for published article. </a>
 ---
