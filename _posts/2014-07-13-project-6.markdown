@@ -1,11 +1,9 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+img: beautybot.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: TESTING
+project-date: Spring 2022
+description: We sought to use computer vision to create a beauty bot that can be used to change different aspects of an image to enhance its aesthetic appeal to the user. The beauty bot includes the following tools: red eye removal, acne removal, retroactive portrait mode, and lip staining. This idea originally appealed to us due to its simplicity and due to the fact that computer science is a male dominated field. Therefore, most examples of computer vision are video games, virtual reality, robotics, etc. However, there are broader applications for vision and ones that would possibly encourage young women to consider careers in STEM. In the following section we will go through all the features of our beauty bot and discuss the vision techniques used as well as the success of the tool. Completed with Olivia Ridge.
+<a href= "https://github.com/caramnix/beautyBot"> Click here for code & project documentation. </a>
 ---
