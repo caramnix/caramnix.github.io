@@ -1,11 +1,25 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+img: sentiment.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Spring 2024
+category: LLM
+description: Legislators communicate with constituents for a multitude of reasons: campaigning,
+fundraising, and informing them of bills they are working on, or issues they are passionate
+about. Prior to the late 1970s it was difficult for legislators to communicate with their
+constituents, let alone the mass public. With the introduction of C-SPAN televising House
+floor debates in 1979 as well as the introduction of social media platforms such as Twitter
+in 2006, this provided legislators with new ways to communicate with their constituents
+and new data sources for analysis. This project explores variation in sentiment and emotion across the 115th, 116th,
+and 117th Congresses which includes a period of Republican unified control (115th), split
+government (116th), and Democrat unified control (117th). Additionally, two forms of
+legislator communication are considered, one-minute speeches delivered to the House floor
+and tweets from legislators. The results indicate when a political party has unified control over the government
+its members have higher sentiment than the minority party. This suggests the national
+political landscape impacts the language of legislators both on Twitter and on the House
+floor. Deeper analysis is also done on one-minute speeches given on the House floor by
+expanding on the valence-arousal-confidence framework originally introduced by Mehrabian
+and Russell (1974) to also include empathy and sympathy. Here, results indicate varying
+confidence and valence depending on party control of the government.
 ---
