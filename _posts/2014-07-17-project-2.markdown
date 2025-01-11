@@ -6,24 +6,5 @@ img: shoot.png
 alt: image-alt
 project-date: Spring 2023
 category: Causal Inference
-description: nstances of police brutality have been shown to have a catalyzing effect on the
-electorate. For example, following the murder of George Floyd in Minneapolis in 2020
-voter turnout in the 2021 mayoral election increased over 53 percent from 2017. How-
-ever, despite a massive change in turnout indicating the mobilizing effect of police
-killings, Mayor Jacob Frey still won reelection in 2021. This puzzle of accountability
-is what I wish to explore further and put to the test at a national-level. Using data
-from police killings which occurred in “large” (more than 50,000 people) cities from 2014-2022
-and corresponding mayoral election returns I consider the impact of police brutality on
-turnout, democratic vote share and incumbency vote choice. I expect to find turnout
-and democratic vote share in the mayoral election will increase following instances
-of police brutality. I also expect, relative to cities where there were no instances of
-police brutality, incumbency percentage will decrease, suggesting mayors are being
-“punished” for police brutality happening on their watch. However, I expect this effect
-is not large enough to unseat the incumbent, demonstrating contradictory outcomes:
-increased mobilization, yet incumbent reelection- indicating a lack of mayoral account-
-ability. I leverage the as-if random timing and location of instances of police brutality
-to implement a differences in differences design spanning multiple time periods. I also
-run a supplementary mediation analysis using local awareness as a mediator. This re-
-search highlights the limitations of elections at holding our elected officials accountable
-for police brutality.
+description: 
 ---
