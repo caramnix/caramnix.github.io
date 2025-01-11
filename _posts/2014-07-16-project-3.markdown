@@ -1,11 +1,9 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+img: edgerry.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Fall 2020
+category: Redistricting
+description: Utilizing cutting-edge geospatial and redistricting technologies, I investigate the impacts of redistricting at the school district and attendance zone level. First, by analyzing the existing boundaries and then by generating alternative districting plans. I explore if current boundaries are giving a specific racial group an educational advantage over another. This educational gerrymandering has normative implications as well as empirical realities for student achievement disparities within a state. I focus on educational boundaries within Minnesota, specifically, 79 school districts and 331 attendance zones. Comparing these geographic realities to alternative computer-generated boundaries, I find that, due to histories of red-lining and segregative politics, the existing attendance zones are less racially representative of the underlying population than those computer-generated. A statewide analysis of these educational boundaries allows for data-rich analyses of racial disparities within Minnesota’s education system. 
 ---
