@@ -1,11 +1,9 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+img: networks.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Spring 2021
+category: Networks
+description: The expanded role of technology in American politics has changed how legislators connect and share information with other legislators, constituents, and the mass public. By comparing and contrasting the formal legislative cosponsorship network for the 115th and 116th sessions of Congress with the more informal Twitter network of interactions between legislators for the same time period I will be able to determine if individuals that are ”powerful” or ”influential” within social media are also central to the legislative process. I will also determine if influence on social media makes one a more effective legislator. Exploring these relationships between legislative Twitter interactions and the cosponsorship network will demonstrate how accurately Twitter is reflecting the power structure and effectiveness of Congresspeople. The results indicate there is a positive and significant relationship between how influential a legislator is within the legislative network and legislative success.
 ---
