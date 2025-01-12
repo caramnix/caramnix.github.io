@@ -282,7 +282,7 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #{{ site.color.secondary }};  /* color for download symbol*/
     font-size: 20px;
     color: #2c3e50;
     background: 0 0;
@@ -293,9 +293,9 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #{{ site.color.secondary }};
-    color: #{{ site.color.secondary }};
-    background: ##{{ site.color.primary }};
+    border: solid 2px #{{ site.color.primary }};  /* color for download when howvered */
+    color: #fff; /*{{ site.color.secondary }}; */
+    background: ##{{ site.color.secondary }};
 }
 
 .btn-outline-dark {
