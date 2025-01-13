@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social Influence
+title: Social Influence and its Translation to the Legislative Arena
 modal-id: 1
 img: networks.png
 alt: image-alt

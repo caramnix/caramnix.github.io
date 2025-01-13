@@ -2,8 +2,12 @@
 layout: default
 modal-id: 3
 img: edgerry.png
+title: An Analysis of Segregation Within Minnesota’s Educational Boundaries
 alt: image-alt
 project-date: Fall 2020
 category: Redistricting
+code: https://github.com/caramnix/edgerrymn
+paper: https://www.dropbox.com/scl/fi/levsxkvsg9vbgr1k23xfx/Edgerry.pdf?rlkey=0hkqx9d9zuvqn3hdvme2546ik&st=4bwhw9ws&dl=0
+slides: https://www.dropbox.com/preview/APW%20APSA%20Educational%20Districting%20.pdf?role=personal
 description: Utilizing cutting-edge geospatial and redistricting technologies, I investigate the impacts of redistricting at the school district and attendance zone level. First, by analyzing the existing boundaries and then by generating alternative districting plans. I explore if current boundaries are giving a specific racial group an educational advantage over another. This educational gerrymandering has normative implications as well as empirical realities for student achievement disparities within a state. I focus on educational boundaries within Minnesota, specifically, 79 school districts and 331 attendance zones. Comparing these geographic realities to alternative computer-generated boundaries, I find that, due to histories of red-lining and segregative politics, the existing attendance zones are less racially representative of the underlying population than those computer-generated. A statewide analysis of these educational boundaries allows for data-rich analyses of racial disparities within Minnesota’s education system. 
 ---
