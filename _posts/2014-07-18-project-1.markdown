@@ -7,10 +7,10 @@ project-date: Spring 2021
 category: Networks
 description: The expanded role of technology in American politics has changed how legislators connect and share information with other legislators, constituents, and the mass public. By comparing and contrasting the formal legislative cosponsorship network for the 115th and 116th sessions of Congress with the more informal Twitter network of interactions between legislators for the same time period I will be able to determine if individuals that are ”powerful” or ”influential” within social media are also central to the legislative process. I will also determine if influence on social media makes one a more effective legislator. Exploring these relationships between legislative Twitter interactions and the cosponsorship network will demonstrate how accurately Twitter is reflecting the power structure and effectiveness of Congresspeople. The results indicate there is a positive and significant relationship between how influential a legislator is within the legislative network and legislative success.
 <div class="col-lg-8 col-lg-offset-2 text-center">
-        <a href="https://github.com/caramnix/social-influence/blob/main/Social_Influence.pdf" class="btn-outline">
+        <a href="https://github.com/caramnix/social-influence/blob/main/Social_Influence.pdf" class="btn btn-outline">
           View Paper
         </a>
-        <a href="https://github.com/caramnix/social-influence/tree/main/Code" class="btn-outline">
+        <a href="https://github.com/caramnix/social-influence/tree/main/Code" class="btn btn-outline">
           View Code
         </a>
       </div>
