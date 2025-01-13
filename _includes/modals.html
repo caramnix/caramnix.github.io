@@ -19,6 +19,24 @@
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+              {% if post.paper %}
+              <a href="{{ post.paper }}" class="btn btn-outline">
+                View Paper
+              </a>
+              {% endif %}
+              {% if post.code %}
+              <a href="{{ post.code }}" class="btn btn-outline">
+                View Code
+              </a>
+              {% endif %}
+              {% if post.slides %}
+              <a href="{{ post.slides }}" class="btn btn-outline">
+                View Slides
+              </a>
+              {% endif %}
+            </div>
+            
             <ul class="list-inline item-details">
               {% if post.client %}
               <li>Client:
@@ -31,7 +49,7 @@
               </li>
               {% endif %}
               {% if post.category %}
-              <li>Service:
+              <li>Category:
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
