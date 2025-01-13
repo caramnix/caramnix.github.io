@@ -295,7 +295,7 @@ section.success {
 .btn-outline.active {
     border: solid 2px #{{ site.color.primary }};  /* color for download when howvered */
     color: #fff; /*{{ site.color.secondary }}; */
-    background: ##{{ site.color.secondary }};
+    background: #{{ site.color.secondary }};
 }
 
 .btn-outline-dark {
