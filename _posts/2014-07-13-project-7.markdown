@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+img: gunviolence.png
+alt: image-alt
+project-date: Spring 2022
+title: Gun Violence in the United States
+
+viz: https://caramnix-5544-finalproject-app-5cpqj1.streamlit.app/
+code: https://github.com/caramnix/5544-FinalProject
+demonstration: https://www.youtube.com/watch?v=5IeWpZtSFhA
+description: Used data from The Violece Project to create an interactive visualization of instances of gun violence in the U.S. over time using streamlit.  
+---

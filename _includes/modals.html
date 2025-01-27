@@ -35,6 +35,19 @@
                 View Slides
               </a>
               {% endif %}
+
+              {% if post.viz %}
+              <a href="{{ post.viz }}" class="btn btn-outline">
+                View Interactive Visualization
+              </a>
+              {% endif %}
+              {% if post.demonstration %}
+              <a href="{{ post.demonstration }}" class="btn btn-outline">
+                View Demonstration
+              </a>
+              {% endif %}
+
+              
             </div>
             <br>
             
